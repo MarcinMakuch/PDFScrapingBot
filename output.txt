@@ -1,0 +1,26 @@
+01/07/2023 23:20:35 => [Debug] Debug started for file: Main
+01/07/2023 23:20:36 => [Info] PDFDataScraping execution started
+01/07/2023 23:20:37 => [Debug] Sample Invoice
+
+Leon Petrou, Inc. Date
+155 West Street, WeWork 12/28/2023
+United States Invoice Number
+(888) 308-8851 19070
+
+Bill To:
+Leenti
+5 Debra Point
+Esik
+960-354-7008
+bwabersinke0@dailymail.co.uk
+
+DESCRIPTION AMOUNT (USD)
+
+Service Fee 2079
+
+Additional Fee 131
+
+Total 2210
+
+THANK YOU FOR YOUR BUSINESS!
+01/07/2023 23:20:37 => [Info] PDFDataScraping execution ended in: 00:00:00
